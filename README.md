@@ -1,1 +1,1 @@
-# Rock-paper-sissor-game-using-python-Game
+# Rock-paper-sissor-game-using-python-Language
